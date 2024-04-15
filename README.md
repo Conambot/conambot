@@ -1,5 +1,5 @@
 <h1 align="center">👩🏻‍💻 Hi ! I’m Wilfried,</h1> 
-<h2 align="center">Computer Science Student - Future Fullstacik Developer</h2> 
+<h2 align="center">Computer Science Student - Future Fullstack Developer</h2> 
 
 
 <p><img align="right" src="https://miro.medium.com/max/1400/1*ZOuGID69j0Kn91-vhyLqdQ.png" alt="coding-meme" width="500" height="500"/></p>
